@@ -1,0 +1,202 @@
+ROMANTIC ROBOT present
+VIDEOFACE DIGITISER
+
+INTRODUCTION.
+The VIDEOFACE DIGITISER is compatible with ANY Spectrum. It is very easy to 
+use, fully menu-driven and with screen prompts. To achieve the best possible 
+results and to minimise any difficulties you may encounter, please read the 
+MANUAL thoroughly.
+
+INSTALLING THE VIDEOFACE.
+1) Disconnect the power supply from your Spectrum.
+   NEVER ATTACH/REMOVE THE VIDEOFACE WHEN THE SPECTRUM IS ON!
+2) Insert the phono plug of your video lead into the left side socket of the 
+VIDEOFACE.
+   Turn the power of your TV or VCR ON at this stage, as power switching 
+ON/OFF of other devices is known to be able to CRASH the Spectrum.
+3) Push the VIDEOFACE firmly onto the Spectrum Extension Bus.
+4) Connect the power supply and switch the Spectrum ON.
+5) Insert the tape with the VIDEOFACE label facing up into your tape 
+recorder, type LOAD "" and start the tape recorder. The loading is complete 
+when a menu appears.
+   Provided the GREEN LED on the VIDEOFACE is ON, you are READY TO DIGITISE!
+
+Should you encounter any problems, please READ CAREFULLY the whole manual, 
+ensure that all the connections are good and try again. If you still should 
+not succeed, please do NOT return the VIDEOFACE, but contact our technical 
+dept. Instead - we should be able to solve most of the problems over the 
+phone on: 081-200 8870
+
+Note for programmers on the VIDEOFACE SOFTWARE.
+The software consists of BASIC and m/code starting at 63232. It is not 
+protected and can be copied (to disk, cartridge, etc.). The m/code part 
+handles all real-time hardware procedures. The menu and SAVE instructions 
+are in BASIC and can thus be altered.
+The area between BASIC and m/code is used for storing the latest six 
+screens. By switching the ANIMATION OFF (see further), you could use this 
+area for other purposes
+
+GENERAL TIPS.
+Whilst the VIDEOFACE can produce black & white screens only, best results 
+may come from a colour source. The colours are transformed into grey scale 
+patterns giving a nice appearance. The grey scale can also be influenced by 
+the amount of lighting when using a VIDEO CAMERA - please experiment whilst 
+changing the contrast on the VIDEOFACE at the same time. Always try to feed 
+the VIDEOFACE with a clear and steady signal.
+
+GETTING THE RIGHT SIGNAL.
+VIDEOFACE takes pictures from any video source and digitises them by 
+converting the analogue pictures into pixels. To start with, it is 
+absolutely essential to feed your VIDEOFACE with the right signal - the 
+COMPOSITE VIDEO - which can be found on:
+
+1) VIDEO CAMERAS. Usually, it is very easy to get the signal from VIDEO 
+CAMERAS.
+   The composite video should always be available and it is just a question 
+of having the right lead; most cameras actually come with a lead giving a 
+composite video on a PHONO (also called RCA or CINCH) plug and that is all 
+you need.
+
+2) VIDEO RECORDERS. Most VIDEO RECORDERS should provide composite video.
+   However, it is very common to mistake the UHF signal (labelled TV OUT or 
+similar - it's simply the signal going from the Video recorder to TV) for 
+the composite video.
+   The UHF signal is utterly USELESS for digitising and you have to look for 
+the VIDEO OUT signal. It can be available on either a:
+   a) PHONO socket - the most typical socket used on HI-FI
+   b) BNC bayonet screw-on type socket
+   c) a big rectangular SCART/EUROCONNECTOR 21-pin socket
+   d) a 6-pin round DIN type AV socket
+   Ideally, your video will have the lead you require - you need a phono 
+plug labelled (COMPOSITE) VIDEO irrespective of what the other end is or 
+what else may also be on the cable (AUDIO, etc.). Any HI-FI dealer will have 
+a phono-to-phono cable, but you may need to go to a VIDEO shop for any of 
+the other 3 cables - make sure you know the exact make of your video 
+recorder or take the manual with you. You should always be able to obtain 
+the cable you need as they are all standard ones.
+   VIDEO RECORDERS can be used in three ways:
+   a) as a passive TUNER - i.e. just receiving UHF signal and converting it 
+into COMPOSITE VIDEO
+   b) in STILL mode - by freezing a picture on the video recorder, you can 
+ideally adjust the contrast on the VIDEOFACE
+   c) in PLAY mode - moving picture are no problem for the VIDEOFACE because 
+of its high scanning speed
+
+3) TV TUNERS. TV's are usable ONLY if they provide COMPOSITE VIDEO signal.
+   Please look for the connections/cables as described under VIDEO 
+RECORDERS.
+
+4) COMPUTERS may give you a COMPOSITE VIDEO signal directly and you can just 
+bring a phono plug, if available, into the VIDEOFACE. Alternatively, you may 
+need to use a TV or VCR to convert a UHF signal into COMPOSITE VIDEO by 
+plugging the aerial lead from the computer into your TV or VCR and then 
+taking the usual COMPOSITE VIDEO signal for the VIDEOFACE.
+
+In all cases, a GREEN LED in the VIDEOFACE MUST BE LIT and it lights up as 
+soon as the COMPOSITE VIDEO signal is provided.
+
+USING THE VIDEOFACE - THE MENU
+
+'Z' or 'SPACE' - STOP  SCANNING
+'Q' or 'P'     - START SCANNING
+'S' = SAVE SCREEN$ 1-6 OR ALL
+'C' = COPY
+'E' = EXIT TO MENU
+'0' = STEP SCREEN$
+'5' = MOVE SCANNING LEFT
+'6' = MOVE SCANNING RIGHT
+'7' = MOVE SCANNING UP
+'8' = MOVE SCANNING DOWN
+
+'A' = ANIMATION (6 screen$)
+'F' = FAST
+'S' = SLOW
+
+AJUST LEVEL CONTROLS FOR THE BEST RESULTS
+PRESS "1" = START SCANNING
+      "2" = ANIMATION ON
+      "3" = ANIMATION OFF
+
+The menu is horizontally divided into three parts:
+a) the top boxed part is applicable ONLY during the DIGITISING
+b) the middle part (blue on colour monitors) during ANIMATION
+c) the bottom part is your main starting choice, so pressing
+   '1' starts scanning/digitising and the RED LED comes ON
+   '2' turns the animation ON - (it is normally ON as a default)
+   '3' turns the animation OFF if you wish to use the part of RAM reserved 
+for animation for other purposes
+
+To start scanning, press '1'. The next vital step is to find the right 
+CONTRAST by turning the knob on top of the VIDEOFACE. Depending on your 
+set-up, the contrast may range from an all-black to an all-white screen at 
+the extreme knob positions. You should have no problem finding the best 
+results. You can create special effects by atypical contrast.
+
+Whilst scanning, you can shift the entire picture by using the cursor keys. 
+The only other keys can use are 'z' or 'space' which will stop scanning, 
+freeze the last frame and, provided the animation was ON, automatically 
+retain 5 previous screen; a small sub-menu will appear with these options:
+1) 'q' or 'p' to re-start scanning
+2) 'e' to EXIT to the main menu to turn animation on/off
+3) 's' to SAVE - again, saving is menu-driven and you can
+    a) save screens INDIVIDUALLY (1-6) or ALL together (0)
+    b) save to MICROdrive, OPUS, Disciple DISK or TAPE - on Spectrum + 3 the 
+TAPE option will save to DISK instead, provided it is formatted with enough 
+room
+4) 'c' to COPY a current screen to an EPSON type printer
+5) '0' to STEP manually through the 6 available screens
+6) 'a' to ANIMATE the 6 screens at a speed which you can control by pressing 
+'f' for faster or 's' for slower
+
+USING THE VIDEOFACE WITH OTHER HARDWARE.
+The VIDEOFACE has been tested and found to be compatible with:
+
+Multiprint      Interface 1 & 2              Any Multiface
+ZX Lprint III   RGB Interfaces               Plus D Interface
+AMX Mouse       Beta Disc Interface          Cheetah Specdrum
+Opus Discovery  Kempston Joystick Interface  Disciple Disc Interface
+
+TROUBLESHOOTING.
+Complaint                 Cause                             Tip
+Pressing '1' in the main  You are not getting the           Check all cables 
+to
+menu has no effect.       composite video signal.           bring the green 
+LED on.
+Vertical stripes          The edge connector is             Clean connector 
+using
+over the picture.         dirty.                            alcohol or hard 
+rubber.
+Horizontal stripes over   The video level is too low        Adjust the light
+the picture.              or there is not enough contrast.  and/or contrast
+No sub-menu.              BREAK has been pressed.           Reload software.
+
+GUARANTEE.
+This guarantee is in addition to and does not affect any statutory or other 
+rights of consumers or purchasers.
+ROMANTIC ROBOT guarantee that if within 6 months of the date of purchase the 
+Videoface proves to be defective by reason of faulty design, workmanship or 
+materials, it will be repaired or replaced free of charge, provided that:
+1) It has not been in any way misused, used with unsuitable equipment or 
+subjected to deliberate, accidental or consequential damage
+2) No unauthorized modifications, repairs or adjustments were made to the 
+Videoface
+3) A dated proof of purchase will be provided to confirm that the Videoface 
+is still under guarantee for units purchased directly from us, please supply 
+the details of the original order instead
+The purchaser's sole and exclusive remedy under this guarantee is for the 
+Videoface repair or replacement.
+No other remedy, including but not limited to, incidental or consequential 
+damage or loss of whatsoever nature shall be available to the purchaser.
+
+Also available from ROMANTIC ROBOT:
+MULTIFACE 3 for Spectrum +3/+2A
+MULTIFACE 1 or 128 for Spectrum 48/128/+2
+MULTIPRINT Printer Interface for Spectrum 48/128/+2
+GENIE Disassembler for Spectrum 48/128/+2 with a Multiface
+LIFEGUARD for any Spectrum with any Multiface
+MUSIC TYPEWRITER for any Spectrum
+
+Please send a SAE for further information on the range of our products
+
+Designed and manufactured by ROMANTIC ROBOT UK Ltd.
+54 Deanscroft Avenue, London NW9 BEN. Tel. 081-200 8870.
